@@ -181,4 +181,70 @@ src/
 
   utils/
     triage.ts
-    
+```
+
+---
+
+## Screenshots
+
+### Dashboard
+
+The dashboard gives users a quick overview of intake count, care requests, latest urgency level, notifications, and analytics access.
+
+![Aegis Dashboard](assets/screenshots/01-aegis-dashboard.png)
+
+---
+
+### Intake Step 1 — Symptom Selection
+
+Users can select a common symptom or enter a custom symptom.
+
+![Intake Step 1](assets/screenshots/02-intake-step1.png)
+
+---
+
+### Intake Step 2 — Symptom Details
+
+Users provide severity, symptom duration, worsening status, additional symptoms, medication taken, and notes.
+
+![Intake Step 2](assets/screenshots/04-intake-step2.png)
+
+---
+
+### Intake Review
+
+Before submitting, users can review the full intake summary.
+
+![Intake Review](assets/screenshots/03-intake-review.png)
+
+---
+
+### Care Request Form
+
+Users can submit a mock follow-up care request with request type, message, and preferred contact method.
+
+![Care Request Form](assets/screenshots/05-aegis-carerequestscreen.png)
+
+---
+
+### Care Request Pipeline
+
+Submitted requests move through a mock workflow with searchable and filterable statuses.
+
+![Care Request List](assets/screenshots/06-aegis-carerequestlst.png)
+
+---
+
+### Notifications
+
+The app generates persistent notifications when care requests are submitted or updated.
+
+![Notifications](assets/screenshots/07-notfications-list.png)
+
+---
+
+### Analytics
+
+The analytics screen shows intake totals, average severity, urgency breakdown, care request pipeline, and system summary.
+
+![Analytics](assets/screenshots/08-aegis-analytics.png)
